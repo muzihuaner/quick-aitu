@@ -39,6 +39,7 @@ export default function Home() {
 							绘图
 						</button>
 					</div>
+					<p>使用本服务请遵守 <a href="https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm">《生成式人工智能服务管理暂行办法》</a></p>
 				</form>
 			</div>
 		</main>
